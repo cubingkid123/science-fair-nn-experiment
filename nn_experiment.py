@@ -86,7 +86,7 @@ generator('90 Neurons Per Layer', 90)
 generator('100 Neurons', 100)
 generator('200 Neurons', 200)
 generator('300 Neurons', 300)
-generator('400 Neurons', 400) # hypothesis
+generator('400 Neurons', 400) # hypothesis - with two layers
 generator('500 Neurons', 500)
 generator('1000 Neurons', 1000)
 generator('5000 Neurons', 5000)
