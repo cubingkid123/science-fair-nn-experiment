@@ -1,0 +1,112 @@
+Name,Accuracy,Loss
+Mean of Input and Output Neurons with 1 layers,0.975000024,0.078226894
+Mean of Input and Output Neurons with 2 layers,0.975399971,0.092234634
+Mean of Input and Output Neurons with 3 layers,0.976999998,0.080212042
+Mean of Input and Output Neurons with 4 layers,0.977900028,0.082853794
+Mean of Input and Output Neurons with 5 layers,0.975700021,0.091280021
+Input Layer Neurons with 1 layers,0.973699987,0.094265439
+Input Layer Neurons with 2 layers,0.973500013,0.110290319
+Input Layer Neurons with 3 layers,0.976100028,0.112565577
+Input Layer Neurons with 4 layers,0.970300019,0.11123462
+Input Layer Neurons with 5 layers,0.975000024,0.106570959
+Output Layer Neurons with 1 layers,0.921199977,0.27644074
+Output Layer Neurons with 2 layers,0.923300028,0.271766186
+Output Layer Neurons with 3 layers,0.926299989,0.25911057
+Output Layer Neurons with 4 layers,0.926999986,0.258706778
+Output Layer Neurons with 5 layers,0.905900002,0.326017171
+Half of Input Neurons with 1 layers,0.976700008,0.079804681
+Half of Input Neurons with 2 layers,0.973500013,0.093341708
+Half of Input Neurons with 3 layers,0.972100019,0.109099306
+Half of Input Neurons with 4 layers,0.977100015,0.088272199
+Half of Input Neurons with 5 layers,0.970899999,0.113264352
+Quarter of Input Neurons with 1 layers,0.973200023,0.088609971
+Quarter of Input Neurons with 2 layers,0.974399984,0.091721036
+Quarter of Input Neurons with 3 layers,0.975300014,0.09240289
+Quarter of Input Neurons with 4 layers,0.968200028,0.126895621
+Quarter of Input Neurons with 5 layers,0.9745,0.095769331
+Two Times Input Neurons with 1 layers,0.977500021,0.081409372
+Two Times Input Neurons with 2 layers,0.978600025,0.084309287
+Two Times Input Neurons with 3 layers,0.977900028,0.09077692
+Two Times Input Neurons with 4 layers,0.959200025,0.188116342
+Two Times Input Neurons with 5 layers,0.971000016,0.133389398
+100 Neurons with 1 layers,0.969399989,0.096891895
+100 Neurons with 2 layers,0.976400018,0.084306687
+100 Neurons with 3 layers,0.972899973,0.088787504
+100 Neurons with 4 layers,0.969500005,0.102145962
+100 Neurons with 5 layers,0.972800016,0.09697099
+200 Neurons with 1 layers,0.975300014,0.083842568
+200 Neurons with 2 layers,0.975499988,0.085383579
+200 Neurons with 3 layers,0.975499988,0.087623522
+200 Neurons with 4 layers,0.97390002,0.097184666
+200 Neurons with 5 layers,0.9727,0.105738476
+300 Neurons with 1 layers,0.975799978,0.080488347
+300 Neurons with 2 layers,0.97390002,0.099650241
+300 Neurons with 3 layers,0.975300014,0.086045414
+300 Neurons with 4 layers,0.974799991,0.094407782
+300 Neurons with 5 layers,0.973500013,0.112790525
+400 Neurons with 1 layers,0.97329998,0.083173022
+400 Neurons with 2 layers,0.977500021,0.086911462
+400 Neurons with 3 layers,0.976999998,0.083849974
+400 Neurons with 4 layers,0.975600004,0.098013841
+400 Neurons with 5 layers,0.97359997,0.111867502
+500 Neurons with 1 layers,0.976700008,0.078712225
+500 Neurons with 2 layers,0.976999998,0.084874734
+500 Neurons with 3 layers,0.978900015,0.080037907
+500 Neurons with 4 layers,0.972800016,0.110972755
+500 Neurons with 5 layers,0.977299988,0.095068514
+1000 Neurons with 1 layers,0.977299988,0.075893924
+1000 Neurons with 2 layers,0.976700008,0.088936776
+1000 Neurons with 3 layers,0.972000003,0.110793956
+1000 Neurons with 4 layers,0.972000003,0.132392451
+1000 Neurons with 5 layers,0.970600009,0.137102544
+Five Times Input Neurons with 1 layers,0.976899981,0.087336324
+Five Times Input Neurons with 2 layers,0.976000011,0.110924631
+Five Times Input Neurons with 3 layers,0.97329998,0.121563159
+Five Times Input Neurons with 4 layers,0.974300027,0.122138917
+Five Times Input Neurons with 5 layers,0.977299988,0.101470873
+Ten Times Input Neurons with 1 layers,0.975399971,0.095962815
+Ten Times Input Neurons with 2 layers,0.9727,0.109620787
+Ten Times Input Neurons with 3 layers,0.973200023,0.147595152
+Ten Times Input Neurons with 4 layers,0.973699987,0.120043702
+Ten Times Input Neurons with 5 layers,0.967299998,0.114230484
+20% Input Neurons with 1 layers,0.97420001,0.081733346
+20% Input Neurons with 2 layers,0.973699987,0.095317066
+20% Input Neurons with 3 layers,0.969900012,0.117021896
+20% Input Neurons with 4 layers,0.97420001,0.092381962
+20% Input Neurons with 5 layers,0.974699974,0.085830986
+10% Input Neurons with 1 layers,0.967100024,0.104050674
+10% Input Neurons with 2 layers,0.971099973,0.090501264
+10% Input Neurons with 3 layers,0.974300027,0.087221324
+10% Input Neurons with 4 layers,0.970200002,0.099962227
+10% Input Neurons with 5 layers,0.97329998,0.09747982
+No Hidden Layer,0.921400011,0.280668795
+One Nueron Per Layer with 1 layers,0.317400008,1.658056498
+One Nueron Per Layer with 2 layers,0.113499999,2.301088572
+One Nueron Per Layer with 3 layers,0.113499999,2.301300764
+One Nueron Per Layer with 4 layers,0.113499999,2.301157475
+One Nueron Per Layer with 5 layers,0.113499999,2.300974607
+10 Neurons Per Layer with 1 layers,0.924899995,0.26377812
+10 Neurons Per Layer with 2 layers,0.935000002,0.222864747
+10 Neurons Per Layer with 3 layers,0.921700001,0.274638116
+10 Neurons Per Layer with 4 layers,0.924099982,0.275712222
+10 Neurons Per Layer with 5 layers,0.915899992,0.285510808
+2 Neurons per Layer with 1 layers,0.643299997,1.092769861
+2 Neurons per Layer with 2 layers,0.623199999,1.04539156
+2 Neurons per Layer with 3 layers,0.362899989,1.584450245
+2 Neurons per Layer with 4 layers,0.407299995,1.478120208
+2 Neurons per Layer with 5 layers,0.113499999,2.301079273
+3 Neurons per Layer with 1 layers,0.806699991,0.669576526
+3 Neurons per Layer with 2 layers,0.778400004,0.686859548
+3 Neurons per Layer with 3 layers,0.722199976,0.961158514
+3 Neurons per Layer with 4 layers,0.627200007,1.111101747
+3 Neurons per Layer with 5 layers,0.406599998,1.553005338
+4 Neurons per Layer with 1 layers,0.841099977,0.567515552
+4 Neurons per Layer with 2 layers,0.83160001,0.577923298
+4 Neurons per Layer with 3 layers,0.699400008,0.911004424
+4 Neurons per Layer with 4 layers,0.785600007,0.705735683
+4 Neurons per Layer with 5 layers,0.699000001,1.031021714
+5 Neurons per Layer with 1 layers,0.883599997,0.413200974
+5 Neurons per Layer with 2 layers,0.87650001,0.443897814
+5 Neurons per Layer with 3 layers,0.870899975,0.435972899
+5 Neurons per Layer with 4 layers,0.816500008,0.594204128
+5 Neurons per Layer with 5 layers,0.820500016,0.611097932
